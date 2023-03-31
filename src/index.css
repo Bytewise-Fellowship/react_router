@@ -1,0 +1,7 @@
+div a:hover{
+    color:green;
+}
+
+div a.active{
+    color:red;
+}
